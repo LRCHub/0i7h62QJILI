@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "My SunShine",
+  "base_artist": "ROCK'A'TRENCH",
+  "createdAt": "2025-12-02T19:43:33.334194Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Do You Know You Are My Sunshine?",
+      "artist": "The Statler Brothers",
+      "has_synced": true,
+      "path": "select/01_Do_You_Know_You_Are_My_Sunshine_The_Statler_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Do You Know You Are My Sunshine? (From \"Smokey And The Bandit 2\" Soundtrack)",
+      "artist": "The Statler Brothers",
+      "has_synced": true,
+      "path": "select/02_Do_You_Know_You_Are_My_Sunshine__(From__Smokey_And_The_Bandit_2__Soundtrack)_The_Statler_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "You Are My Sunshine",
+      "artist": "Jimmie Davis",
+      "has_synced": false,
+      "path": "select/03_You_Are_My_Sunshine_Jimmie_Davis.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "You're My Sunshine",
+      "artist": "范曉萱",
+      "has_synced": false,
+      "path": "select/04_You're_My_Sunshine_范曉萱.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "You're My Sunshine",
+      "artist": "范晓萱",
+      "has_synced": false,
+      "path": "select/05_You're_My_Sunshine_范晓萱.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "You're Not My Sunshine",
+      "artist": "范曉萱",
+      "has_synced": false,
+      "path": "select/06_You're_Not_My_Sunshine_范曉萱.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "You're Not My Sunshine",
+      "artist": "范晓萱",
+      "has_synced": false,
+      "path": "select/07_You're_Not_My_Sunshine_范晓萱.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Got My Sunshine",
+      "artist": "Mojave 3",
+      "has_synced": true,
+      "path": "select/08_Got_My_Sunshine_Mojave_3.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "You Are My Sunshine",
+      "artist": "B.B. King",
+      "has_synced": false,
+      "path": "select/09_You_Are_My_Sunshine_B.B._King.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "You Are My Sunshine",
+      "artist": "Lou Bega",
+      "has_synced": true,
+      "path": "select/10_You_Are_My_Sunshine_Lou_Bega.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "My Sunshine",
+      "artist": "Jeremih",
+      "has_synced": true,
+      "path": "select/11_My_Sunshine_Jeremih.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "My Sunshine (For You)",
+      "artist": "Morgan Saint",
+      "has_synced": true,
+      "path": "select/12_My_Sunshine_(For_You)_Morgan_Saint.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Old Master Painter / You Are My Sunshine",
+      "artist": "Brian Wilson",
+      "has_synced": true,
+      "path": "select/13_Old_Master_Painter___You_Are_My_Sunshine_Brian_Wilson.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Old Master Painter\u0000You Are My Sunshine",
+      "artist": "Brian Wilson",
+      "has_synced": true,
+      "path": "select/14_Old_Master_Painter\u0000You_Are_My_Sunshine_Brian_Wilson.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Steal My Sunshine",
+      "artist": "Lenka",
+      "has_synced": true,
+      "path": "select/15_Steal_My_Sunshine_Lenka.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "You Are My Sunshine",
+      "artist": "Norman Blake",
+      "has_synced": true,
+      "path": "select/16_You_Are_My_Sunshine_Norman_Blake.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "You Are My Sunshine",
+      "artist": "Bryan Ferry",
+      "has_synced": false,
+      "path": "select/17_You_Are_My_Sunshine_Bryan_Ferry.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Brainsaw / You Are My Sunshine",
+      "artist": "Therapy?",
+      "has_synced": false,
+      "path": "select/18_Brainsaw___You_Are_My_Sunshine_Therapy.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "My SunShine",
+      "artist": "ROCK'A'TRENCH",
+      "has_synced": false,
+      "path": "select/pl_01_My_SunShine_ROCK'A'TRENCH.txt"
+    }
+  ]
+}
